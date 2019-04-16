@@ -1,0 +1,70 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  /border: solid 1px red;
+  }
+body{
+  position: absolute;
+}
+.heart{
+  position: fixed;
+  width: 100px;
+  height: 100px;
+  margin: 35%;
+  transition: all 0.6s cubic-bezier(0.86, 0, 0.07, 1);
+}
+.heart:hover{
+  transform: rotate(760deg);
+  margin-top: 0px;
+}
+.h1{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  background-color: #f88;
+}
+.h2{
+   height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 0px;
+  left: 40px;
+  border-radius: 50%;
+  background-color: #f88;
+}
+.h3{
+   height: 49px;
+  width: 49px;
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  transform: rotate(45deg);
+  background-color: #f88;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
